@@ -18,7 +18,7 @@
                     <string>full-size-image</string>
                     <key>needs-shine</key>
                     <true/>
-                    <key>url</key>
+                    <key>https://raw.githubusercontent.com/673636634/game_lztb/master/Icon-144.png</key>
                     <string></string>
                 </dict>
                 <dict>
@@ -26,7 +26,7 @@
                     <string>display-image</string>
                     <key>needs-shine</key>
                     <true/>
-                    <key>url</key>
+                    <key>https://raw.githubusercontent.com/673636634/game_lztb/master/Icon-72.png</key>
                     <string></string>
                 </dict>
             </array>
